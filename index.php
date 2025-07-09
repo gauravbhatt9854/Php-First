@@ -33,6 +33,7 @@
         if (strcmp(strtolower($name2), "gaurav") == 0 && strcmp($pass2, "1234") == 0) {
             echo "you are valid user";
             echo "</br> <font color=red> you are valid user </font>";
+            header("Location:home.php");
         } else echo "login failed";
     }
     ?>

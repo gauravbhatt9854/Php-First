@@ -1,0 +1,11 @@
+{
+    "user01": {
+        "name": "golu"
+    },
+    "user02": {
+        "name": "bhatt"
+    },
+    "user03": {
+        "name": "joshi"
+    }
+}
